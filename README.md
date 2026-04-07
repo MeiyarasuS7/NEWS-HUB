@@ -1,9 +1,3 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/7e4ebb01-6bec-426a-9355-ce8fe793e444
-
 # NewsHub — React + Tailwind News Feed App
 
 [![CI](https://github.com/ManojKumar-A-17/NEWS_HUB/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ManojKumar-A-17/NEWS_HUB/actions/workflows/ci.yml)
